@@ -104,5 +104,5 @@ npm start
 - Pedro Augusto Borges Rabelo - RA: 5162384
 - Yan Lopes Ferreira Assunção - RA: 5162487
 ---
-Disciplina: Linguagem de Programação para Internet
-Engenharia de Computação - UNIUBE
+-Disciplina: Linguagem de Programação para Internet
+-Engenharia de Computação - UNIUBE
