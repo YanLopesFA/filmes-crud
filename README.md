@@ -32,11 +32,13 @@ filmes-crud/
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
-│   │   │   └── FilmeCard.js
+│   │   │   ├── FilmeCard.css
+|   |   |   └── FilmeCard.js
 │   │   ├── pages/
 │   │   │   ├── Home.js
 │   │   │   ├── AddFilme.js
-│   │   │   └── EditFilme.js
+│   │   │   ├── EditFilme.js
+|   |   |   └── Formulario.css
 │   │   ├── services/
 │   │   │   └── api.js
 │   │   └── App.js
