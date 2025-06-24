@@ -28,7 +28,7 @@ filmes-crud/
 │   ├── index.js
 │   ├── models/
 │   └── routes/
-├── frontend/
+├── frontend-filmes/
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
