@@ -26,8 +26,12 @@ Este é um sistema completo de gerenciamento de filmes com as funcionalidades de
 filmes-crud/
 ├── backend-filmes/
 │   ├── index.js
+│   ├── controllers/
+│   │   └── filmeController.js
 │   ├── models/
+│   │   └── Filme.js
 │   └── routes/
+│   |   └── filmeRoutes.js
 ├── frontend-filmes/
 │   ├── public/
 │   ├── src/
